@@ -1,6 +1,6 @@
 # Visualizer
-![image](./login%20page.png)
-![image](./screenshot.png)
+![image](../img/loginpage.png)
+![image](../img/screenshot.png)
 
 [Here](https://youtu.be/xCFbp8YaT_I) is our video recording of visualizers for unseen players game.
 
